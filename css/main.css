@@ -193,9 +193,9 @@ footer p {
       font-size: 3em;
       
   }
-    /* .hero p {
-
-    } */
+     .hero p {
+      color: #55acee;
+    } 
   footer ul {
       max-width: 960px;
       margin: 0 auto;
