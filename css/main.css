@@ -154,6 +154,10 @@ footer p {
   color: #646b77;
 }
 
+#copy {
+  text-align: center;
+}
+
 .icon {
   font-size: 64px;
     
@@ -231,7 +235,12 @@ footer p {
       max-width: 960px;
       margin: 0 auto;
       padding: 0;
+      text-align: center;
   }
+
+  
+
+  
     /* svg / icon size: width: 20% */
 }
 
