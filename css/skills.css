@@ -13,12 +13,12 @@ body {
 .sidebar {
   grid-area: sidebar;
   background: linear-gradient(to right,
-  rgba(25, 181, 254, 1),
+  /*rgba(25, 181, 254, 1),
   rgba(0,249,255, 1),
-  rgba(0,191,255, 1));
-  /*rgba(249, 107, 142, 1),
+  rgba(0,191,255, 1));*/
+  rgba(249, 107, 142, 1),
   rgba(218, 103, 230, 1),
-  rgba(130, 125, 253, 1));*/
+  rgba(130, 125, 253, 1));
   justify-content: center;
     
 }
@@ -192,12 +192,12 @@ footer p {
   }
   .sidebar {
     background: linear-gradient(
-      rgba(25, 181, 254, 1),
+      /*rgba(25, 181, 254, 1),
       rgba(0,249,255, 1),
-      rgba(0,191,255, 1));
-        /*rgba(249,107,142,1),
+      rgba(0,191,255, 1));*/
+        rgba(249,107,142,1),
         rgba(218,103,230,1),
-        rgba(130,125,254,1));*/
+        rgba(130,125,254,1));
         padding-top: 3em;
   }
   .hero {
